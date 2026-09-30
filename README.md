@@ -6,6 +6,8 @@ This guide provides a basic overview of how to operate Sky Command, the Ground C
 
 It is intended as a quick reference for new users and operators who need to perform a basic automated mission using the Sky Command interface.
 
+**On a phone:** open [this page](https://tectivejk.github.io/Skycommand-Guide/) and add it to your home screen.
+
 ## 1. Starting Sky Command
 
 1. On the GCS computer desktop, locate the Sky Command application icon.
