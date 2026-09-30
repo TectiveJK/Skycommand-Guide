@@ -6,7 +6,7 @@ This guide provides a basic overview of how to operate Sky Command, the Ground C
 
 It is intended as a quick reference for new users and operators who need to perform a basic automated mission using the Sky Command interface.
 
-**On a phone:** open [this page](https://tectivejk.github.io/Skycommand-Guide/) and add it to your home screen.
+**On a phone:** open [this page](https://tectivejk.github.io/Skycommand-Guide/) and add it to your home screen. This public page stays online.
 
 ## 1. Starting Sky Command
 
